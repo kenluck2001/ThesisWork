@@ -1,0 +1,12 @@
+Project Kpoba
+=====================
+Electronic auction has been a popular means of goods distribution. The number of items sold through the internet auction sites have grown in the past few years. Evidently, this has become the medium of choice for customers.
+
+This project entails the design and implementation of a web-based auction system for users to trade in goods. The system was implemented in the Django framework. On account that the trade over the Internet lacks any means of ascertaining the quality of goods, there is a need to implement a feedback system to rate the seller’s credibility in order to increase customer confidence in a given business. The feedback system is based on the history of the customer’s rating of the previous seller’s transactions.
+
+As a result, the auction system has a built-in feedback system to enhance the credibility of the auction system. The project was designed by using a modular approach to ensure maintainability. There is a number of engines that were implemented in order to enhance the functionality of the auction system. They include the following: commenting engine, search engine, business intelligence (user analytic and statistics), graph engine, advertisement engine and recommendation engine.
+
+
+As a result of this thesis undertaking, a full-fledged system robust enough to handle small or
+medium-sized traffic has been developed to specification.
+
